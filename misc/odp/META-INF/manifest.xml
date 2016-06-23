@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<manifest:manifest xmlns:manifest="urn:oasis:names:tc:opendocument:xmlns:manifest:1.0">
+ <manifest:file-entry manifest:media-type="application/vnd.oasis.opendocument.presentation" manifest:full-path="/"/>
+ <manifest:file-entry manifest:media-type="" manifest:full-path="Pictures/2000000700004D9F000031339AC60C41.svm"/>
+ <manifest:file-entry manifest:media-type="image/jpeg" manifest:full-path="Pictures/100000000000032000000258A55F90BA.jpg"/>
+ <manifest:file-entry manifest:media-type="image/png" manifest:full-path="Pictures/10000201000000A200000071E1D0EE2C.png"/>
+ <manifest:file-entry manifest:media-type="image/png" manifest:full-path="Pictures/1000020100000320000000CFA9FA20FD.png"/>
+ <manifest:file-entry manifest:media-type="image/jpeg" manifest:full-path="Pictures/10000000000003200000025885612476.jpg"/>
+ <manifest:file-entry manifest:media-type="image/png" manifest:full-path="Pictures/10000201000000F8000000F85637405A.png"/>
+ <manifest:file-entry manifest:media-type="" manifest:full-path="Pictures/2000000700001E140000233F5589B66D.svm"/>
+ <manifest:file-entry manifest:media-type="image/jpeg" manifest:full-path="Pictures/1000000000000280000001E077C04814.jpg"/>
+ <manifest:file-entry manifest:media-type="" manifest:full-path="Pictures/"/>
+ <manifest:file-entry manifest:media-type="" manifest:full-path="ObjectReplacements/Object 10"/>
+ <manifest:file-entry manifest:media-type="" manifest:full-path="ObjectReplacements/Object 11"/>
+ <manifest:file-entry manifest:media-type="" manifest:full-path="ObjectReplacements/Object 12"/>
+ <manifest:file-entry manifest:media-type="" manifest:full-path="ObjectReplacements/Object 7"/>
+ <manifest:file-entry manifest:media-type="" manifest:full-path="ObjectReplacements/Object 8"/>
+ <manifest:file-entry manifest:media-type="" manifest:full-path="ObjectReplacements/Object 9"/>
+ <manifest:file-entry manifest:media-type="" manifest:full-path="ObjectReplacements/"/>
+ <manifest:file-entry manifest:media-type="text/xml" manifest:full-path="content.xml"/>
+ <manifest:file-entry manifest:media-type="" manifest:full-path="Object 10/content.xml"/>
+ <manifest:file-entry manifest:media-type="" manifest:full-path="Object 10/styles.xml"/>
+ <manifest:file-entry manifest:media-type="application/vnd.oasis.opendocument.chart" manifest:full-path="Object 10/"/>
+ <manifest:file-entry manifest:media-type="" manifest:full-path="Object 11/content.xml"/>
+ <manifest:file-entry manifest:media-type="" manifest:full-path="Object 11/styles.xml"/>
+ <manifest:file-entry manifest:media-type="application/vnd.oasis.opendocument.chart" manifest:full-path="Object 11/"/>
+ <manifest:file-entry manifest:media-type="" manifest:full-path="Object 12/content.xml"/>
+ <manifest:file-entry manifest:media-type="" manifest:full-path="Object 12/styles.xml"/>
+ <manifest:file-entry manifest:media-type="application/vnd.oasis.opendocument.chart" manifest:full-path="Object 12/"/>
+ <manifest:file-entry manifest:media-type="text/xml" manifest:full-path="styles.xml"/>
+ <manifest:file-entry manifest:media-type="" manifest:full-path="Object 7/content.xml"/>
+ <manifest:file-entry manifest:media-type="" manifest:full-path="Object 7/styles.xml"/>
+ <manifest:file-entry manifest:media-type="application/vnd.oasis.opendocument.chart" manifest:full-path="Object 7/"/>
+ <manifest:file-entry manifest:media-type="" manifest:full-path="Object 8/content.xml"/>
+ <manifest:file-entry manifest:media-type="" manifest:full-path="Object 8/styles.xml"/>
+ <manifest:file-entry manifest:media-type="application/vnd.oasis.opendocument.chart" manifest:full-path="Object 8/"/>
+ <manifest:file-entry manifest:media-type="" manifest:full-path="Object 9/content.xml"/>
+ <manifest:file-entry manifest:media-type="" manifest:full-path="Object 9/styles.xml"/>
+ <manifest:file-entry manifest:media-type="application/vnd.oasis.opendocument.chart" manifest:full-path="Object 9/"/>
+ <manifest:file-entry manifest:media-type="text/xml" manifest:full-path="meta.xml"/>
+ <manifest:file-entry manifest:media-type="" manifest:full-path="Thumbnails/thumbnail.png"/>
+ <manifest:file-entry manifest:media-type="" manifest:full-path="Thumbnails/"/>
+ <manifest:file-entry manifest:media-type="text/xml" manifest:full-path="settings.xml"/>
+</manifest:manifest>
